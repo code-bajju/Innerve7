@@ -21,10 +21,10 @@ We are developing an innovative solution to the problem statement. Our team beli
 
 ### Team Members:
 
-- Bajrang: Team Leader
+- Bajrang Gour: Team Leader
 - Vaishnavi: Team Members
-- Kartik: Team Members
-- Aaditya: Team Members
+- Kartik Goel: Team Members
+- Aaditya Mishra: Team Members
 
 ### Conclusion:
 We look forward to participating in the hackathon and contributing to the Web3 ecosystem. We are excited to see the impact our Web3 streaming platform can make on the traditional video streaming industry.
