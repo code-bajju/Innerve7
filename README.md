@@ -1,6 +1,7 @@
-# QuadraTech Web3 Streaming Platform
+# QuadraTech Presents TrueStream
+# Web3 Streaming Platform
 
-![Innerve 7](https://i.ibb.co/f9KwG6x/image.png "Innerve 7")
+<img src="https://i.ibb.co/f9KwG6x/image.png" width="50%">
 
 
 ## Introduction:
